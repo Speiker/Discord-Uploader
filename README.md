@@ -6,12 +6,12 @@ This script can be used to upload files directly to a Discord channel using a ch
 
 This script requires python to be installed. A good walkthrough on how to do this can be found on [Real Python](https://realpython.com/installing-python/) and it includes instructions on how to install python on various operating systems.
 
-This script requires the use of the discord python library. To install this library, open a command prompt and enter the following command:
+This script makes use of the discord and python-dotenv python libraries. To install these, open a command prompt and enter the following command:
 ```
-pip install discord
+pip install discord python-dotenv
 ```
 
-Once python and the discord library is installed, either clone the repo or download the project as a zip and extract it to where you would like to run it from.
+Once python and the required libraries are installed, either clone the repo or download the project as a zip and extract it to where you would like to run it from.
 
 ## Run the script
 
